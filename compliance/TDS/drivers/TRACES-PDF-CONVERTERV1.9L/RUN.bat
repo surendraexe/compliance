@@ -1,1 +1,0 @@
-start javaw -jar TRACES-PDF-CONVERTERV1.9L.jar  
