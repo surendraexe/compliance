@@ -1,0 +1,16 @@
+detecting proxies
+proxy type: DIRECT
+No Proxy
+onlineservices.tin.egov-nsdl.com
+the proxy validator is true
+detecting proxies
+proxy type: DIRECT
+No Proxy
+onlineservices.tin.egov-nsdl.com
+--result--8.7^2.183^2.1313
+FVU_Electronic_after2010118.7
+FVU_Electronic_before2010112.183
+FVU_Paper2.1313
+the btnbrowseErrorFilePath is javax.swing.JButton[,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@79be0360,flags=296,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=84,height=25],defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Browse,defaultCapable=true]
+the previousSorurceFileFolder is D:\autoazure3\compliance2\_internal\compliance\TDS\tds_file_downloads\text_files\text24Q.txt
+the errorFileName is C:\Users\suren\OneDrive\Documents\text24Q.errthe hashFileName is C:\Users\suren\OneDrive\Documents\text24Q.fvuthe htmlErrorFileNameC:\Users\suren\OneDrive\Documents\text24Qerr.html
